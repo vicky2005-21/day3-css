@@ -22,11 +22,3 @@ You can visit the live version of this layout at [https://vicky2005-21.github.io
 ## Customization 🛠️
 
 You can customize the layout by editing the `styles.css` file. This includes changing colors, fonts, and spacing to suit your needs.
-
-## Contributing 💡
-
-Feel free to fork this repository and submit pull requests with your improvements.
-
-## License 📜
-
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT)
