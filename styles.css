@@ -199,3 +199,8 @@
 .button:hover + .button-caption {
         color: black;
 }
+
+.footer {
+            background-color: white;
+            padding: 10px; /* Optional padding for the footer content */
+        }
